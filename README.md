@@ -1,6 +1,18 @@
- # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I'm an AI Engineer passionate about building intelligent systems that solve real-world problems.
+🚀 I work across Machine Learning, Deep Learning, and Data Science, with hands-on experience in designing, training, and deploying scalable AI solutions. I enjoy turning complex data into actionable insights and building end-to-end AI-powered applications.
+🧠 My interests include:
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Data Engineering & Model Optimization
+- AI-powered Web Applications![ClipWindowsGIF](https://github.com/user-attachments/assets/59d28faa-929b-4323-94a5-53252c105eae)
 
+💻 Tech Stack:
+Python | Java | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | SQL | Git | Cloud
+
+🌱 Currently exploring advanced AI architectures, MLOps, and real-time AI systems.
+
+📫 Let’s collaborate on innovative AI projects and research!
 
  
 ## 🌐 Socials:
