@@ -5,7 +5,7 @@
 - Natural Language Processing
 - Computer Vision
 - Data Engineering & Model Optimization
-- AI-powered Web Applications![ClipWindowsGIF](https://github.com/user-attachments/assets/59d28faa-929b-4323-94a5-53252c105eae)
+- AI-powered Web Applications!
 
 💻 Tech Stack:
 Python | Java | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | SQL | Git | Cloud
