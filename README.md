@@ -1,69 +1,47 @@
 <div align="center">
-
-<!-- Banner -->
-<img src="./assets/banner.jpg" alt="Prashant Kanal — AI Engineer" width="100%" />
-
+  <img src="./assets/banner.jpg" alt="Prashant Kanal — AI Engineer" width="100%" />
 </div>
 
----
+<br/>
 
-<!-- Profile Photo + Intro -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="180">
-
-<!-- Replace with your actual photo after uploading assets/profile.png -->
-<img src="./assets/pic_pk.jpg" alt="Prashant Kanal" width="150" height="150" style="border-radius:50%;border:3px solid #00d4aa;" />
-
-</td>
-<td align="left" style="padding-left:24px;">
-
-<h2>Prashant Kanal</h2>
-<h4>🤖 AI Engineer &nbsp;|&nbsp; 🧠 ML &amp; Deep Learning &nbsp;|&nbsp; 📊 Data Science</h4>
-<p>
-I build intelligent, end-to-end AI systems that turn complex data into real-world impact.<br/>
-My work spans model development, deployment, and the infrastructure that keeps AI<br/>
-applications reliable at scale.
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Resume Badge -->
 <div align="center">
+  <img src="./assets/pic_pk.jpg" alt="Prashant Kanal" width="150" height="150" style="border-radius:50%; border:3px solid #00d4aa;" />
+  <h2>Prashant Kanal</h2>
+  <p>
+    <b>AI Engineer</b> &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Data Science
+  </p>
+  <p>
+    I build intelligent, end-to-end AI systems that turn complex data into real-world impact.<br/>
+    My work spans model development, deployment, and the infrastructure that keeps<br/>AI applications reliable at scale.
+  </p>
 
-### 📄 Resume
+  <br/>
 
-> **Key Skills:** Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · MLOps  
-> **Core Stack:** Python · TensorFlow · scikit-learn · FastAPI · Docker · Apache Kafka · Hadoop  
-> **Experience:** Building and deploying production-grade AI models; end-to-end data pipelines; real-time AI systems.
-
-[![📄 View Resume](https://img.shields.io/badge/📄%20View%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/Kanal_Pawadi_Resume.pdf)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pawadi-kanal-0665472a2/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kanal.prashant/)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kanalpawadi@gmail.com)
+  [![Resume](https://img.shields.io/badge/📄%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/Kanal_Pawadi_Resume.pdf)
 </div>
 
 ---
 
 ## 🧠 Focus Areas
 
-| Area | Description |
-|------|-------------|
-| 🤖 **Machine Learning & Deep Learning** | Model design, training, and optimization |
-| 💬 **Natural Language Processing** | Text understanding and generative applications |
-| 👁️ **Computer Vision** | Image and video-based AI systems |
-| 🔧 **Data Engineering** | Pipelines that turn raw data into usable features |
-| 🚀 **AI-Powered Applications** | Deploying models as production-ready web services |
+| | Area | Description |
+|---|---|---|
+| 🤖 | **Machine Learning & Deep Learning** | Model design, training, and optimization |
+| 💬 | **Natural Language Processing** | Text understanding and generative applications |
+| 👁️ | **Computer Vision** | Image and video-based AI systems |
+| 🔧 | **Data Engineering** | Pipelines that turn raw data into usable features |
+| 🚀 | **AI-Powered Applications** | Deploying models as production-ready web services |
 
-### 🌱 Currently Exploring
-
-> Advanced AI architectures · MLOps practices · Real-time AI systems
+**🌱 Currently Exploring:** Advanced AI architectures · MLOps practices · Real-time AI systems
 
 ---
 
-## 💻 Tech Stack
+<img src="./assets/section_techstack.jpg" alt="Tech Stack" width="100%" />
+
+<br/>
 
 **Languages**
 
@@ -114,51 +92,49 @@ applications reliable at scale.
 
 ---
 
-## 📊 GitHub Stats
+<img src="./assets/section_githubstats.jpg" alt="GitHub Stats" width="100%" />
+
+<br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanalpawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanalpawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=kanalpawadi&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kanalpawadi&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanalpawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanalpawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🔝 Top Contributed Repositories
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=kanalpawadi&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kanalpawadi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<img src="./assets/section_connect.jpg" alt="Connect With Me" width="100%" />
+
+<br/>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kanal.prashant/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pawadi-kanal-0665472a2/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kanal.prashant/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kanalpawadi@gmail.com)
-[![📄 Resume](https://img.shields.io/badge/📄%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/resume.pdf)
+[![Resume](https://img.shields.io/badge/📄%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/Kanal_Pawadi_Resume.pdf)
 
 </div>
 
 ---
 
 <div align="center">
-
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=kanalpawadi&icon=9&color=11" alt="Visitor Count" />
-</a>
-
-<br/><br/>
-
-*"Building intelligent systems, one model at a time."*
-
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=kanalpawadi&icon=9&color=11" alt="Visitor Count" />
+  </a>
+  <br/><br/>
+  <i>"Building intelligent systems, one model at a time."</i>
 </div>
-
-<!-- Proudly created with Antigravity IDE -->
