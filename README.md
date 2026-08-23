@@ -1,35 +1,65 @@
-<h1 align="center">Hi, I'm Prashant Kanal 👋</h1>
-<h3 align="center">AI Engineer | Machine Learning & Deep Learning | Data Science</h3>
+<div align="center">
 
-<p align="center">
-I build intelligent, end-to-end AI systems that turn complex data into real-world impact. My work spans model development, deployment, and the infrastructure that keeps AI applications reliable at scale.
-</p>
+<!-- Banner -->
+<img src="./assets/banner.jpg" alt="Prashant Kanal — AI Engineer" width="100%" />
+
+</div>
 
 ---
 
-### 🧠 Focus Areas
+<!-- Profile Photo + Intro -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="180">
 
-- **Machine Learning & Deep Learning** — model design, training, and optimization
-- **Natural Language Processing** — text understanding and generative applications
-- **Computer Vision** — image and video-based AI systems
-- **Data Engineering** — pipelines that turn raw data into usable features
-- **AI-Powered Applications** — deploying models as production-ready web services
+<!-- Replace with your actual photo after uploading assets/profile.png -->
+<img src="./assets/pic_pk.jpg" alt="Prashant Kanal" width="150" height="150" style="border-radius:50%;border:3px solid #00d4aa;" />
+
+</td>
+<td align="left" style="padding-left:24px;">
+
+<h2>Prashant Kanal</h2>
+<h4>🤖 AI Engineer &nbsp;|&nbsp; 🧠 ML &amp; Deep Learning &nbsp;|&nbsp; 📊 Data Science</h4>
+<p>
+I build intelligent, end-to-end AI systems that turn complex data into real-world impact.<br/>
+My work spans model development, deployment, and the infrastructure that keeps AI<br/>
+applications reliable at scale.
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Resume Badge -->
+<div align="center">
+
+### 📄 Resume
+
+> **Key Skills:** Machine Learning · Deep Learning · NLP · Computer Vision · Data Engineering · MLOps  
+> **Core Stack:** Python · TensorFlow · scikit-learn · FastAPI · Docker · Apache Kafka · Hadoop  
+> **Experience:** Building and deploying production-grade AI models; end-to-end data pipelines; real-time AI systems.
+
+[![📄 View Resume](https://img.shields.io/badge/📄%20View%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/Kanal_Pawadi_Resume.pdf)
+
+</div>
+
+---
+
+## 🧠 Focus Areas
+
+| Area | Description |
+|------|-------------|
+| 🤖 **Machine Learning & Deep Learning** | Model design, training, and optimization |
+| 💬 **Natural Language Processing** | Text understanding and generative applications |
+| 👁️ **Computer Vision** | Image and video-based AI systems |
+| 🔧 **Data Engineering** | Pipelines that turn raw data into usable features |
+| 🚀 **AI-Powered Applications** | Deploying models as production-ready web services |
 
 ### 🌱 Currently Exploring
 
-Advanced AI architectures, MLOps practices, and real-time AI systems.
-
-### 📫 Let's Connect
-
-I'm open to collaborating on innovative AI projects and research. Reach out via email or LinkedIn below.
-
----
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kanal.prashant/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawadi-kanal-0665472a2/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanalpawadi@gmail.com)
+> Advanced AI architectures · MLOps practices · Real-time AI systems
 
 ---
 
@@ -106,10 +136,29 @@ I'm open to collaborating on innovative AI projects and research. Reach out via 
 
 ---
 
-<p align="center">
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kanal.prashant/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pawadi-kanal-0665472a2/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kanalpawadi@gmail.com)
+[![📄 Resume](https://img.shields.io/badge/📄%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/resume.pdf)
+
+</div>
+
+---
+
+<div align="center">
+
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=kanalpawadi&icon=9&color=11" alt="Visitor Count" />
 </a>
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+
+*"Building intelligent systems, one model at a time."*
+
+</div>
+
+<!-- Proudly created with Antigravity IDE -->
