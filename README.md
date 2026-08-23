@@ -169,17 +169,18 @@ class KanalPawadiPiragond:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanalpawadi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanalpawadi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=kanalpawadi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kanalpawadi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanalpawadi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=kanalpawadi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanalpawadi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
+
 
 ---
 
