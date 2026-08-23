@@ -62,7 +62,7 @@ class KanalPawadiPiragond:
 ## 🏆 Achievements & Awards
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanalpawadi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=kanalpawadi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </p>
 
 | 🥇 | Achievement |
@@ -174,7 +174,7 @@ class KanalPawadiPiragond:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanalpawadi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=kanalpawadi&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Overall%20GitHub%20Activity" />
 </p>
 
 <p align="center">
