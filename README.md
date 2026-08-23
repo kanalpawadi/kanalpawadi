@@ -1,140 +1,160 @@
-<div align="center">
-  <img src="./assets/banner.jpg" alt="Prashant Kanal — AI Engineer" width="100%" />
-</div>
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00d4aa&height=220&section=header&text=Prashant%20Kanal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<br/>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+AI+systems+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+complex+data+into+real-world+impact+%F0%9F%9A%80;Open+to+collaborations+%26+AI+research" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="./assets/pic_pk.jpg" alt="Prashant Kanal" width="150" height="150" style="border-radius:50%; border:3px solid #00d4aa;" />
-  <h2>Prashant Kanal</h2>
-  <p>
-    <b>AI Engineer</b> &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Data Science
-  </p>
-  <p>
-    I build intelligent, end-to-end AI systems that turn complex data into real-world impact.<br/>
-    My work spans model development, deployment, and the infrastructure that keeps<br/>AI applications reliable at scale.
-  </p>
+<!-- Profile + Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawadi-kanal-0665472a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kanal.prashant/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:kanalpawadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="./resume/Kanal_Pawadi_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-00d4aa?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
-  <br/>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pawadi-kanal-0665472a2/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kanal.prashant/)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kanalpawadi@gmail.com)
-  [![Resume](https://img.shields.io/badge/📄%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/Kanal_Pawadi_Resume.pdf)
-</div>
-
----
-
-## 🧠 Focus Areas
-
-| | Area | Description |
-|---|---|---|
-| 🤖 | **Machine Learning & Deep Learning** | Model design, training, and optimization |
-| 💬 | **Natural Language Processing** | Text understanding and generative applications |
-| 👁️ | **Computer Vision** | Image and video-based AI systems |
-| 🔧 | **Data Engineering** | Pipelines that turn raw data into usable features |
-| 🚀 | **AI-Powered Applications** | Deploying models as production-ready web services |
-
-**🌱 Currently Exploring:** Advanced AI architectures · MLOps practices · Real-time AI systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanalpawadi&label=Profile+Views&color=00d4aa&style=flat-square" />
+</p>
 
 ---
 
-<img src="./assets/section_techstack.jpg" alt="Tech Stack" width="100%" />
+## 👨‍💻 About Me
 
-<br/>
+```python
+class PrashantKanal:
+    def __init__(self):
+        self.name        = "Prashant Kanal"
+        self.role        = "AI Engineer"
+        self.location    = "India 🇮🇳"
+        self.email       = "kanalpawadi@gmail.com"
+        self.focus       = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
+        self.currently   = "Exploring advanced AI architectures & MLOps"
+        self.open_to     = "Collaborations on innovative AI projects & research"
+
+    def mission(self):
+        return "Build intelligent, end-to-end AI systems that turn complex data into real-world impact."
+```
+
+---
+
+## 🎯 Focus Areas
+
+<table>
+  <tr>
+    <td>🤖 <b>Machine Learning & Deep Learning</b></td>
+    <td>Model design, training pipelines, and optimization</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Natural Language Processing</b></td>
+    <td>Text understanding and generative AI applications</td>
+  </tr>
+  <tr>
+    <td>👁️ <b>Computer Vision</b></td>
+    <td>Image and video-based AI systems</td>
+  </tr>
+  <tr>
+    <td>🔧 <b>Data Engineering</b></td>
+    <td>Pipelines that turn raw data into usable features</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>AI-Powered Applications</b></td>
+    <td>Deploying models as production-ready web services</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&perline=12" />
+</p>
 
 **Web & Frameworks**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,angular,nodejs,express,fastapi,spring,bootstrap,graphql&perline=12" />
+</p>
 
 **AI / ML / Data**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&perline=12" />
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Cloud, DevOps & Databases**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,mysql,firebase,vercel,netlify,raspberrypi&perline=12" />
+</p>
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
-<img src="./assets/section_githubstats.jpg" alt="GitHub Stats" width="100%" />
-
-<br/>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanalpawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanalpawadi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanalpawadi&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kanalpawadi&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanalpawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kanalpawadi&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kanalpawadi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kanalpawadi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
 ---
 
-<img src="./assets/section_connect.jpg" alt="Connect With Me" width="100%" />
+## 🌐 Connect With Me
 
-<br/>
+<p align="center">
+  I'm open to collaborating on innovative AI projects and research.<br/>
+  Feel free to reach out — let's build something impactful together.
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pawadi-kanal-0665472a2/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kanal.prashant/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kanalpawadi@gmail.com)
-[![Resume](https://img.shields.io/badge/📄%20Resume-00d4aa?style=for-the-badge&logoColor=white)](./resume/Kanal_Pawadi_Resume.pdf)
-
-</div>
-
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kanalpawadi&icon=9&color=11" alt="Visitor Count" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawadi-kanal-0665472a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br/><br/>
-  <i>"Building intelligent systems, one model at a time."</i>
-</div>
+  <a href="https://www.instagram.com/kanal.prashant/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:kanalpawadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="./resume/Kanal_Pawadi_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-00d4aa?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0a3d62,100:0d1b2a&height=120&section=footer&animation=fadeIn" />
