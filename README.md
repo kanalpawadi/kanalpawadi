@@ -1,5 +1,7 @@
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:0a3d62,100:00d4aa&height=220&section=header&text=Kanal%20Pawadi%20Piragond&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Generative%20AI%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=17&animation=fadeIn" />
+<p align="center">
+  <img width="100%" src="assets/banner.jpg" alt="Header Wave">
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -61,9 +63,9 @@ class KanalPawadiPiragond:
 
 ## 🏆 Achievements & Awards
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-trophies.vercel.app/?username=kanalpawadi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</p>
+</p> -->
 
 | 🥇 | Achievement |
 |:---:|---|
