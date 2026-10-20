@@ -1,33 +1,29 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="assets/banner.jpg" alt="Kanal Pawadi Piragond — Banner">
-</p>
-
-<h1 align="center">Hi 👋, I'm Kanal Pawadi Piragond</h1>
-<h3 align="center">Applied AI Engineer · Generative AI / ML · Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Final-Year+B.Tech+AI+%26+Data+Science+%E2%80%94+CGPA+9.04%2F10;GenAI+%7C+LangChain+%7C+RAG+%7C+Agentic+Workflows;First+Prize+%E2%80%94+GI-AI-SC+2026%2C+MIT+WPU+%F0%9F%8F%86;Published+Researcher+%E2%80%94+Springer+ICDAM-2026+%F0%9F%93%84;AWS+Academy+Data+Engineering+Certified+%E2%98%81%EF%B8%8F;Open+to+Applied+AI+Engineering+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img width="100%" src="assets/claude/hero.svg" alt="Kanal Pawadi Piragond — Applied AI Engineer · Generative AI / ML · Full-Stack Developer">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawadi-kanal-0665472a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kanalpawadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/kanalpawadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/kanal.prashant/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="./resume/Kanal_Pawadi_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-00D4AA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=D97757&background=FAF9F5&center=true&vCenter=true&width=760&height=46&lines=Final-Year+B.Tech+AI+%26+Data+Science+%E2%80%94+CGPA+9.04%2F10;GenAI+%7C+LangChain+%7C+RAG+%7C+Agentic+Workflows;First+Prize+%E2%80%94+GI-AI-SC+2026%2C+MIT+WPU+%F0%9F%8F%86;Published+Researcher+%E2%80%94+Springer+ICDAM-2026+%F0%9F%93%84;AWS+Academy+Data+Engineering+Certified+%E2%98%81%EF%B8%8F;Open+to+Applied+AI+Engineering+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Sangli,_Maharashtra,_India-0D1B2A?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/📞_+91_9096734431-0D1B2A?style=flat-square" alt="Phone"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Internships_→_Full--Time-00D4AA?style=flat-square" alt="Status"/>
-  <img src="https://komarev.com/ghpvc/?username=kanalpawadi&label=Profile+Views&color=00d4aa&style=flat-square" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/pawadi-kanal-0665472a2/"><img src="https://img.shields.io/badge/LinkedIn-1F1E1D?style=for-the-badge&logo=linkedin&logoColor=FAF9F5" alt="LinkedIn"/></a>
+  <a href="mailto:kanalpawadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F1E1D?style=for-the-badge&logo=gmail&logoColor=FAF9F5" alt="Gmail"/></a>
+  <a href="https://github.com/kanalpawadi"><img src="https://img.shields.io/badge/GitHub-1F1E1D?style=for-the-badge&logo=github&logoColor=FAF9F5" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/kanal.prashant/"><img src="https://img.shields.io/badge/Instagram-1F1E1D?style=for-the-badge&logo=instagram&logoColor=FAF9F5" alt="Instagram"/></a>
+  <a href="./resume/Kanal_Pawadi_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-D97757?style=for-the-badge&logo=readthedocs&logoColor=FAF9F5" alt="Resume"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Sangli,_Maharashtra,_India-F0EEE6?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/📞_+91_9096734431-F0EEE6?style=flat-square" alt="Phone"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships_→_Full--Time-D97757?style=flat-square" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=kanalpawadi&label=Profile+Views&color=D97757&style=flat-square" alt="Profile views"/>
+</p>
 
-## 👨‍💻 About Me
+
+<img width="100%" src="assets/claude/h_about.svg" alt="About Me">
 
 Final-year **AI & Data Science** undergraduate (**CGPA 9.04/10**) who builds **Generative AI, RAG and applied ML systems that ship to real users**. I've delivered production prototypes spanning LangChain + Groq RAG pipelines, multilingual NLP risk classification, time-series forecasting, and a live in-browser SQL learning platform now used across my campus.
 
@@ -56,21 +52,15 @@ class KanalPawadiPiragond:
     looking_for = "Applied AI Engineering internship → full-time AI Engineer"
 ```
 
----
 
-## 📈 Impact at a Glance
+<img width="100%" src="assets/claude/h_impact.svg" alt="Impact at a Glance">
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="assets/claude/impact.svg" alt="30% lower RAG latency · 100% retrieval accuracy · 35% FAQ automated · 22% lower MAE · 0.96 F2 · 4.6–5.9 mm RMSE">
+</p>
 
-| ⚡ **30%** | 🎯 **100%** | 🤖 **35%** | 📉 **22%** | 🧠 **0.96 F2** | 📐 **4.6–5.9 mm** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| lower RAG latency vs. OpenAI baseline | semantic retrieval accuracy on dynamic docs | FAQ support workload automated | lower forecasting MAE vs. baseline | on 530k-report safety corpus | RMSE in 3D heritage reconstruction |
 
-</div>
-
----
-
-## 💼 Work Experience
+<img width="100%" src="assets/claude/h_experience.svg" alt="Work Experience">
 
 ### 🤖 Generative AI Engineer Intern — Sunbeam Institute, Pune
 `Dec 2025` &nbsp;•&nbsp; `LangChain` `Groq API` `ChromaDB` `Selenium` `Streamlit Cloud` `REST APIs`
@@ -79,9 +69,8 @@ class KanalPawadiPiragond:
 - Automated document ingestion with **Selenium + ChromaDB**, reaching **100% semantic retrieval accuracy** on dynamic source documents.
 - Deployed production AI apps via **Streamlit Cloud** and **REST APIs**, automating **35%** of the FAQ support workload.
 
----
 
-## 🚀 Featured Projects
+<img width="100%" src="assets/claude/h_projects.svg" alt="Featured Projects">
 
 <table>
 <tr>
@@ -151,9 +140,8 @@ class KanalPawadiPiragond:
 </tr>
 </table>
 
----
 
-## 🏆 Achievements & Research
+<img width="100%" src="assets/claude/h_achievements.svg" alt="Achievements & Research">
 
 | | Achievement | Year |
 |:---:|---|:---:|
@@ -163,91 +151,88 @@ class KanalPawadiPiragond:
 | 🥈 | **Finalist — National Level Hackathon, IIT Roorkee** · Competed among the top AI teams nationally. | 2025 |
 | 💻 | **LeetCode 250+** problems (Java, C) — DP, Arrays, Hash Tables, Greedy · **100-day streak** | — |
 
----
 
-## 🛠️ Tech Stack
+<img width="100%" src="assets/claude/h_techstack.svg" alt="Tech Stack">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F0EEE6?style=for-the-badge&logo=python&logoColor=D97757)
+![SQL](https://img.shields.io/badge/SQL-F0EEE6?style=for-the-badge&logo=mysql&logoColor=D97757)
+![TypeScript](https://img.shields.io/badge/TypeScript-F0EEE6?style=for-the-badge&logo=typescript&logoColor=D97757)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0EEE6?style=for-the-badge&logo=javascript&logoColor=D97757)
+![Java](https://img.shields.io/badge/Java-F0EEE6?style=for-the-badge&logo=openjdk&logoColor=D97757)
+![C](https://img.shields.io/badge/C-F0EEE6?style=for-the-badge&logo=c&logoColor=D97757)
 
 **Generative AI & LLMs**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-00D4AA?style=for-the-badge)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-0A3D62?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
-![LLaMA 3](https://img.shields.io/badge/LLaMA_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-F0EEE6?style=for-the-badge&logo=langchain&logoColor=D97757)
+![RAG](https://img.shields.io/badge/RAG_Systems-F0EEE6?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-F0EEE6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F0EEE6?style=for-the-badge)
+![LLaMA 3](https://img.shields.io/badge/LLaMA_3-F0EEE6?style=for-the-badge&logo=meta&logoColor=D97757)
+![Groq](https://img.shields.io/badge/Groq_API-F0EEE6?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-F0EEE6?style=for-the-badge&logo=huggingface&logoColor=D97757)
 
 **Machine Learning, NLP & Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6E00FF?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/ARIMA_·_Prophet-0D1B2A?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-005571?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F0EEE6?style=for-the-badge&logo=scikit-learn&logoColor=D97757)
+![Pandas](https://img.shields.io/badge/Pandas-F0EEE6?style=for-the-badge&logo=pandas&logoColor=D97757)
+![NumPy](https://img.shields.io/badge/NumPy-F0EEE6?style=for-the-badge&logo=numpy&logoColor=D97757)
+![NLP](https://img.shields.io/badge/NLP-F0EEE6?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/ARIMA_·_Prophet-F0EEE6?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-F0EEE6?style=for-the-badge&logo=plotly&logoColor=D97757)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-F0EEE6?style=for-the-badge)
 
 **Vector Stores & Retrieval**
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Vector_Embeddings-00D4AA?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-0A3D62?style=for-the-badge)
-![Retrieval Eval](https://img.shields.io/badge/Retrieval_Evaluation-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F0EEE6?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Vector_Embeddings-F0EEE6?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-F0EEE6?style=for-the-badge)
+![Retrieval Eval](https://img.shields.io/badge/Retrieval_Evaluation-F0EEE6?style=for-the-badge)
 
 **Backend, Frontend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-F0EEE6?style=for-the-badge&logo=fastapi&logoColor=D97757)
+![REST API](https://img.shields.io/badge/REST_APIs-F0EEE6?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-F0EEE6?style=for-the-badge&logo=nextdotjs&logoColor=D97757)
+![React](https://img.shields.io/badge/React-F0EEE6?style=for-the-badge&logo=react&logoColor=D97757)
+![Vite](https://img.shields.io/badge/Vite-F0EEE6?style=for-the-badge&logo=vite&logoColor=D97757)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-F0EEE6?style=for-the-badge&logo=tailwindcss&logoColor=D97757)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-F0EEE6?style=for-the-badge&logo=shadcnui&logoColor=D97757)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-F0EEE6?style=for-the-badge&logo=webassembly&logoColor=D97757)
 
 **Databases & Cloud**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F0EEE6?style=for-the-badge&logo=mysql&logoColor=D97757)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F0EEE6?style=for-the-badge&logo=postgresql&logoColor=D97757)
+![SQLite](https://img.shields.io/badge/SQLite-F0EEE6?style=for-the-badge&logo=sqlite&logoColor=D97757)
+![Supabase](https://img.shields.io/badge/Supabase-F0EEE6?style=for-the-badge&logo=supabase&logoColor=D97757)
+![AWS](https://img.shields.io/badge/AWS-F0EEE6?style=for-the-badge&logo=amazonwebservices&logoColor=D97757)
+![Vercel](https://img.shields.io/badge/Vercel-F0EEE6?style=for-the-badge&logo=vercel&logoColor=D97757)
+![Streamlit](https://img.shields.io/badge/Streamlit-F0EEE6?style=for-the-badge&logo=streamlit&logoColor=D97757)
 
 **Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F0EEE6?style=for-the-badge&logo=git&logoColor=D97757)
+![GitHub](https://img.shields.io/badge/GitHub-1F1E1D?style=for-the-badge&logo=github&logoColor=FAF9F5)
+![Docker](https://img.shields.io/badge/Docker-F0EEE6?style=for-the-badge&logo=docker&logoColor=D97757)
+![Selenium](https://img.shields.io/badge/Selenium-F0EEE6?style=for-the-badge&logo=selenium&logoColor=D97757)
+![VS Code](https://img.shields.io/badge/VS_Code-F0EEE6?style=for-the-badge&logo=visualstudiocode&logoColor=D97757)
 
----
 
-## 📊 GitHub Analytics
+<img width="100%" src="assets/claude/h_stats.svg" alt="GitHub Analytics">
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=kanalpawadi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
-  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kanalpawadi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages"/>
+  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=kanalpawadi&bg_color=FAF9F5&title_color=D97757&text_color=1F1E1D&icon_color=D97757&border_color=E3DFD3&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
+  <img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kanalpawadi&bg_color=FAF9F5&title_color=D97757&text_color=1F1E1D&icon_color=D97757&border_color=E3DFD3&hide_border=false&layout=compact&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanalpawadi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+  <img width="100%" src="https://ghchart.rshah.org/D97757/kanalpawadi" alt="Contribution calendar"/>
 </p>
 
----
 
-## 🎓 Education
+<img width="100%" src="assets/claude/h_education.svg" alt="Education">
 
 | Degree | Institute | Score | Year |
 |---|---|:---:|:---:|
@@ -255,9 +240,8 @@ class KanalPawadiPiragond:
 | Class XII (HSC) | Maharashtra State Board | **71.80%** | 2022 |
 | Class X (SSC) | Maharashtra State Board | **91.80%** | 2020 |
 
----
 
-## 📜 Certifications & Leadership
+<img width="100%" src="assets/claude/h_certs.svg" alt="Certifications & Leadership">
 
 - ☁️ **AWS Academy Data Engineering** — 40 hours (Apr 2026)
 - 🧑‍💻 **Student Ambassador** — Let's Upgrade EdTech Platform
@@ -265,9 +249,8 @@ class KanalPawadiPiragond:
 - 📣 **Social Media Lead** — DSSA Technical Association
 - 🌍 **Languages** — English (Professional) · Hindi · Marathi · Kannada
 
----
 
-## 🌐 Let's Connect
+<img width="100%" src="assets/claude/h_connect.svg" alt="Let's Connect">
 
 <p align="center">
   I'm actively looking for <b>Applied AI Engineering</b> internships and full-time <b>AI Engineer</b> roles.<br/>
@@ -275,10 +258,10 @@ class KanalPawadiPiragond:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawadi-kanal-0665472a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kanalpawadi@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.instagram.com/kanal.prashant/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="./resume/Kanal_Pawadi_Resume.pdf"><img src="https://img.shields.io/badge/Download_Résumé-00D4AA?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/pawadi-kanal-0665472a2/"><img src="https://img.shields.io/badge/LinkedIn-1F1E1D?style=for-the-badge&logo=linkedin&logoColor=FAF9F5" alt="LinkedIn"/></a>
+  <a href="mailto:kanalpawadi@gmail.com"><img src="https://img.shields.io/badge/Email_Me-1F1E1D?style=for-the-badge&logo=gmail&logoColor=FAF9F5" alt="Email"/></a>
+  <a href="https://www.instagram.com/kanal.prashant/"><img src="https://img.shields.io/badge/Instagram-1F1E1D?style=for-the-badge&logo=instagram&logoColor=FAF9F5" alt="Instagram"/></a>
+  <a href="./resume/Kanal_Pawadi_Resume.pdf"><img src="https://img.shields.io/badge/Download_Résumé-D97757?style=for-the-badge&logo=readthedocs&logoColor=FAF9F5" alt="Resume"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0a3d62,100:0d1b2a&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FAF9F5,50:F0E3D8,100:D97757&height=120&section=footer&animation=fadeIn" alt="Footer"/>

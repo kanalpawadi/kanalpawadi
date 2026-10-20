@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="achievements_and_research">
+<title>achievements_and_research</title>
+<style>text{font-family:'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace;}</style>
+
+<rect x="1" y="1" width="1198" height="62" rx="12" fill="#FAF9F5" stroke="#E3DFD3" stroke-width="2"/>
+<rect x="1" y="1" width="8" height="62" rx="4" fill="#D97757"/>
+<text x="34" y="41" font-size="22" font-weight="700" fill="#1F1E1D"><tspan fill="#D97757">✻</tspan> achievements_and_research</text>
+<text x="1170" y="40" text-anchor="end" font-size="15" fill="#6B6862"># cat awards.md</text>
+
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Impact at a glance">
+<title>Impact at a glance</title>
+<style>text{font-family:'JetBrains Mono','SF Mono','Cascadia Code',Menlo,Consolas,'Liberation Mono',monospace;}</style>
+
+<rect x="8" y="12" width="376" height="130" rx="12" fill="#FAF9F5" stroke="#E3DFD3" stroke-width="2"/>
+<text x="34" y="68" font-size="34" font-weight="700" fill="#D97757">30%</text>
+<text x="34" y="100" font-size="16" fill="#1F1E1D">lower RAG latency</text>
+<text x="34" y="123" font-size="14" fill="#6B6862">vs. OpenAI baseline</text>
+<rect x="400" y="12" width="376" height="130" rx="12" fill="#FAF9F5" stroke="#E3DFD3" stroke-width="2"/>
+<text x="426" y="68" font-size="34" font-weight="700" fill="#D97757">100%</text>
+<text x="426" y="100" font-size="16" fill="#1F1E1D">retrieval accuracy</text>
+<text x="426" y="123" font-size="14" fill="#6B6862">on dynamic documents</text>
+<rect x="792" y="12" width="376" height="130" rx="12" fill="#FAF9F5" stroke="#E3DFD3" stroke-width="2"/>
+<text x="818" y="68" font-size="34" font-weight="700" fill="#D97757">35%</text>
+<text x="818" y="100" font-size="16" fill="#1F1E1D">FAQ support</text>
+<text x="818" y="123" font-size="14" fill="#6B6862">workload automated</text>
+<rect x="8" y="158" width="376" height="130" rx="12" fill="#FAF9F5" stroke="#E3DFD3" stroke-width="2"/>
+<text x="34" y="214" font-size="34" font-weight="700" fill="#D97757">22%</text>
+<text x="34" y="246" font-size="16" fill="#1F1E1D">lower MAE</text>
+<text x="34" y="269" font-size="14" fill="#6B6862">inventory forecasting</text>
+<rect x="400" y="158" width="376" height="130" rx="12" fill="#FAF9F5" stroke="#E3DFD3" stroke-width="2"/>
+<text x="426" y="214" font-size="34" font-weight="700" fill="#D97757">0.96 F2</text>
+<text x="426" y="246" font-size="16" fill="#1F1E1D">hazard detection</text>
+<text x="426" y="269" font-size="14" fill="#6B6862">530k-report corpus</text>
+<rect x="792" y="158" width="376" height="130" rx="12" fill="#FAF9F5" stroke="#E3DFD3" stroke-width="2"/>
+<text x="818" y="214" font-size="34" font-weight="700" fill="#D97757">4.6–5.9mm</text>
+<text x="818" y="246" font-size="16" fill="#1F1E1D">RMSE in 3D</text>
+<text x="818" y="269" font-size="14" fill="#6B6862">heritage reconstruction</text>
+</svg>
